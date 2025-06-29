@@ -38,6 +38,7 @@
     padding-inline: 1.3rem;
 }
 .toggle-menu{
+    position: fixed;
     display: none;
 }
 .list-side-bar{
